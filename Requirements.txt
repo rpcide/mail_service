@@ -3,3 +3,4 @@ pymongo
 python-dotenv
 python-multipart
 pydantic[email]
+smtplib
